@@ -1,0 +1,32 @@
+html,
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+    min-height: 100vh;
+}
+
+header {
+    padding: 5vw;
+    background-image: url('bg.png');
+    background-position: top;
+    background-size: cover;
+    min-height: 75px;
+}
+
+#market {
+    padding: 5vw;
+    max-width: 100vw;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.shop {
+    margin-right: 20px;
+    min-width: 350px;
+}
+
+#footer {
+    margin-top: 50px;
+    padding-left: 5vw;
+}
