@@ -11,13 +11,153 @@
         }
     },
     "1": {
-        "name": "example 2",
-        "owners": "Jane Doe",
+        "name": "Look Books!",
+        "owners": "Unknown & Loosifyre",
         "inventory": {
             "0": {
-                "name": "Coal",
+                "name": "Mending book",
+                "price": "5 dia",
+                "amount": "1 book"
+            },
+            "1": {
+                "name": "Silk Touch book",
+                "price": "4 dia",
+                "amount": "1 book"
+            },
+            "2": {
+                "name": "Unbreaking III book",
+                "price": "5 dia",
+                "amount": "1 book"
+            },
+            "3": {
+                "name": "Aqua Affinity book",
+                "price": "4 dia",
+                "amount": "1 book"
+            },
+            "4": {
+                "name": "Efficiency V book",
+                "price": "8 dia",
+                "amount": "1 book"
+            },
+            "5": {
+                "name": "Looting III book",
+                "price": "8 dia",
+                "amount": "1 book"
+            },
+            "6": {
+                "name": "Fortune III book",
+                "price": "6 dia",
+                "amount": "1 book"
+            },
+            "7": {
+                "name": "Feather Falling IV book",
+                "price": "8 dia",
+                "amount": "1 book"
+            },
+            "8": {
+                "name": "Sharpness V book",
+                "price": "8 dia",
+                "amount": "1 book"
+            },
+            "9": {
+                "name": "BARGIAN BIN",
                 "price": "1 dia",
-                "amount": "2 Block"
+                "amount": "1 book"
+            },
+            "10": {
+                "name": "BARGIAN BIN",
+                "price": "2 dia",
+                "amount": "1 book"
+            }
+        }
+    },
+    "2": {
+        "name": "ShroomShop",
+        "owners": "skits360",
+        "inventory": {
+            "0": {
+                "name": "Bow",
+                "price": "Any Ore",
+                "amount": "1"
+            },
+            "1": {
+                "name": "Arrows",
+                "price": "1 dia",
+                "amount": "1 stack"
+            },
+            "2": {
+                "name": "Bones",
+                "price": "1 dia",
+                "amount": "1 stack"
+            },
+            "3": {
+                "name": "Grass Blocks",
+                "price": "2 dia",
+                "amount": "1 stack"
+            }
+        }
+    },
+    "3": {
+        "name": "Rocket Shop",
+        "owners": "Dekoba",
+        "inventory": {
+            "0": {
+                "name": "Firework Rockets",
+                "price": "1 dia",
+                "amount": "1 stack"
+            }
+        }
+    },
+    "4": {
+        "name": "Pinback's Gravel shop",
+        "owners": "SgtPinback",
+        "inventory": {
+            "0": {
+                "name": "Flint",
+                "price": "1 dia",
+                "amount": "2 stack"
+            },
+            "1": {
+                "name": "Gravel",
+                "price": "1 dia",
+                "amount": "2 stack"
+            },
+            "2": {
+                "name": "Sand",
+                "price": "1 dia",
+                "amount": "2 stack"
+            }
+        }
+    },
+    "5": {
+        "name": "KayR's Slime Shop",
+        "owners": "KayR",
+        "inventory": {
+            "0": {
+                "name": "Slime Block",
+                "price": "5 dia",
+                "amount": "10"
+            },
+            "1": {
+                "name": "Slime Ball",
+                "price": "1 dia",
+                "amount": "16"
+            }
+        }
+    },
+    "6": {
+        "name": "Catch-Your-Own Tropical Fish Aquarium",
+        "owners": "???",
+        "inventory": {
+            "0": {
+                "name": "Fish",
+                "price": "2 dia",
+                "amount": "1"
+            },
+            "1": {
+                "name": "Fish",
+                "price": "6 dia",
+                "amount": "5"
             }
         }
     }
