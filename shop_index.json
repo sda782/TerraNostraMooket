@@ -1,0 +1,24 @@
+{
+    "0": {
+        "name": "example",
+        "owners": "John Doe",
+        "inventory": {
+            "0": {
+                "name": "Sugar cane",
+                "price": "2 dia",
+                "amount": "64"
+            }
+        }
+    },
+    "1": {
+        "name": "example 2",
+        "owners": "Jane Doe",
+        "inventory": {
+            "0": {
+                "name": "Coal",
+                "price": "1 dia",
+                "amount": "2 Block"
+            }
+        }
+    }
+}
