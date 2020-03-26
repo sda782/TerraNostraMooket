@@ -4,6 +4,7 @@ body {
     padding: 0px;
     font-family: 'Roboto', sans-serif;
     min-height: 100vh;
+    
 }
 
 header {
@@ -12,6 +13,7 @@ header {
     background-position: top;
     background-size: cover;
     min-height: 75px;
+    text-align: center;
 }
 
 #market {
@@ -23,10 +25,30 @@ header {
 
 .shop {
     margin-right: 20px;
+    margin-bottom: 20px;
     min-width: 350px;
+    max-width: 350px;
+    border: 2px solid black;
+    padding: 20px;
 }
+
+.stock{
+    display: none;
+}
+button{
+    border: none;
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+button:hover{
+    background-color: lightgray;
+    color:black;
+}
+button:focus {outline:0;}
 
 #footer {
     margin-top: 50px;
     padding-left: 5vw;
+    text-align: center;
 }
