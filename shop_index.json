@@ -165,5 +165,16 @@
                 "amount": "1"
             }
         }
+    },
+    "7": {
+        "name": "Dragon Safari",
+        "owners": "Dekoba",
+        "inventory": {
+            "0": {
+                "name": "Advancement for summoning and killing the dragon, an elytra, a dragon head, and a dragon egg",
+                "price": "30 dia",
+                "amount": "1"
+            }
+        }
     }
 }
