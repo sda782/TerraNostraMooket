@@ -83,6 +83,11 @@
                 "name": "Grass Blocks",
                 "price": "2 dia",
                 "amount": "1 stack"
+            },
+            "4": {
+                "name": "Random enchanted items",
+                "price": "see price in chest",
+                "amount": ""
             }
         }
     },
@@ -173,7 +178,23 @@
             "0": {
                 "name": "Advancement for summoning and killing the dragon, an elytra, a dragon head, and a dragon egg",
                 "price": "30 dia",
-                "amount": "1"
+                "amount": ""
+            }
+        }
+    },
+    "8": {
+        "name": "Iron Shop",
+        "owners": "Beeftoss",
+        "inventory": {
+            "0": {
+                "name": "Iron",
+                "price": "1 dia",
+                "amount": "32"
+            },
+            "1": {
+                "name": "Full Beacon's Worth of Blocks",
+                "price": "32 dia",
+                "amount": ""
             }
         }
     }
